@@ -15,7 +15,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## Roadmap
 
-![Roadmap](./Blazor WebApp Mastery-roadmap.jpg)
+![Roadmap](https://github.com/shahryarish/Blazor-WebApp-Mastery-roadmap/blob/main/Blazor%20WebApp%20Mastery-roadmap.jpg?raw=true) 
 
 ## Resources
 
